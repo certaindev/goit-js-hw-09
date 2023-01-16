@@ -1,0 +1,17 @@
+.color-buttons {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.color-start,
+.color-stop {
+  padding: 10px 15px;
+  text-transform: uppercase;
+}
+
+.color-start:hover,
+.color-stop:hover {
+  cursor: pointer;
+}
